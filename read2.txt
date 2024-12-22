@@ -1,5 +1,5 @@
-2 commit GIT 1
+1 commit GIT 
 
-1 commit GIT 2
+2 commit GIT 
 
-3 commit GIT 3
+3 commit GIT 
